@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605188796 source:c:\users\kobe_\onedrive\masaüstü\fffffffffff\main.cpp
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+
